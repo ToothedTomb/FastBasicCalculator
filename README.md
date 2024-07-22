@@ -1,5 +1,5 @@
 # Introduction:
-Simple and open source calcuator written with C++ and GTK. This calculator will stay with the system theme.
+Simple and open source calculator written with C++ and GTK. This calculator will stay with the system theme. 
 # Compile the code:
 g++ -o FastBasicCalculator main.cpp `pkg-config --cflags --libs gtk+-3.0`
 
